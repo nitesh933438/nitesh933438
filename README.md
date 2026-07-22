@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 🚀 I'm currently working on Java and Python projects<br>🤝 I'm looking to collaborate on Open Source Projects<br>💡 I'm looking for help with Data Structures & Algorithms<br>🌱 I'm currently learning Java, Git, GitHub, HTML, CSS and JavaScript<br>💬 Ask me about Java, Python and C Programming<br>⚡ Fun fact: I love learning new technologies and solving coding problems.
 
 
@@ -15,4 +15,59 @@
 ---
 [![](https://komarev.com/ghpvc/?username=nitesh933438&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="assets/banner.png" alt="Nitesh Kumar Banner" width="100%">
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Learning+DSA+in+C%2B%2B;Building+Real+Projects;Open+Source+Learner"/>
+</p>
+
+
+<div align="center">
+
+# 👋 Hi, I'm Nitesh Kumar
+
+### Full Stack Developer | MERN Stack | B.Tech CSE Student
+
+<p>
+  Passionate about Web Development • DSA in C++ • Open Source
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+- 🎓 B.Tech Computer Science Student
+- 💻 Learning MERN Stack Development
+- 📚 Solving DSA using C++
+- 🌱 Exploring Firebase & Cloudinary
+- 🎯 Goal: Become a Software Engineer
+
+---
+
+# 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nitesh-kumar-3b7b4b382
+- 🌍 Portfolio: https://nitesh933438.github.io/My-Portfolio/
+- 📧 Email: nitesh933438@gmail.com
+
+---
+
+# 🛠 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode,tailwind)
+
+
