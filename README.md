@@ -421,7 +421,7 @@ A modern portfolio website showcasing my projects, skills, achievements, and dev
 
 ```text
 🚀 Building Real World MERN Projects
-📚 Solving DSA in C++
+📚 Solving DSA in Python 
 🌱 Learning Backend Development
 ☁️ Exploring Firebase & Cloudinary
 💼 Preparing for Software Development Internships
