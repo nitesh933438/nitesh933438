@@ -33,9 +33,8 @@ Aspiring Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 # 🚀 About Me
 
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" alt="Coding" width="360"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 B.Tech Computer Science Student
 
@@ -261,13 +260,6 @@ A modern portfolio website showcasing my projects, skills, achievements, and dev
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nitesh933438&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
 ---
 
