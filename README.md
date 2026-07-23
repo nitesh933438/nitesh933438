@@ -1,205 +1,3 @@
-<!-- <p align="center">
-  <img src="assets/banner.png" alt="Nitesh Kumar Banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Learning+DSA+in+C%2B%2B;Building+Real+Projects;Open+Source+Learner"/>
-</p>
-
-
-<div align="center">
-
-# 👋 Hi, I'm Nitesh Kumar
-
-### Full Stack Developer | MERN Stack | B.Tech CSE Student
-
-<p>
-  Passionate about Web Development • DSA in C++ • Open Source
-</p>
-
-</div>
-
----
-
-# 🚀 About Me
-
-- 🎓 B.Tech Computer Science Student
-- 💻 Building Full Stack MERN Applications
-- 📚 Solving Data Structures & Algorithms in C++
-- 🌱 Exploring Firebase, Cloudinary & REST APIs
-- 🚀 Currently working on real-world web projects
-- 🎯 Aspiring Software Engineer
-
----
-
-# 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/nitesh-kumar-3b7b4b382
-- 🌍 Portfolio: https://nitesh933438.github.io/My-Portfolio/
-- 📧 Email: nitesh933438@gmail.com
-
----
-
-# 🛠 Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode,tailwind)
-
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=nitesh933438&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="170" src="https://streak-stats.demolab.com/?user=nitesh933438&theme=dark&hide_border=false"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nitesh933438&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nitesh933438&theme=onedark&no-frame=true&margin-w=15"/>
-</p>
-
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitesh933438&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-# 🌟 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 💰 Money Details
-
-A modern **Personal Finance Management System** built with React to efficiently manage income, expenses, budgets, fees, and udhaar records with powerful analytics and a clean responsive UI.
-
-### ✨ Key Features
-
-✅ Dashboard Analytics  
-✅ Income & Expense Tracking  
-✅ Budget Management  
-✅ Udhaar Management  
-✅ Fee Management  
-✅ Interactive Charts  
-✅ Export Data  
-✅ Dark Mode UI  
-✅ Responsive Design
-
-### 🛠 Tech Stack
-
-React • JavaScript • HTML • CSS
-
-<br>
-
-<a href="https://money-details.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/nitesh933438/Money-Details">
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-## 🌐 Portfolio
-
-Responsive portfolio website showcasing my skills, projects, achievements and development journey.
-
-<br>
-
-<a href="https://nitesh933438.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/🚀_Visit_Portfolio-2563EB?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-
----
-
-# 🏅 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/nitesh933438/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/nitesh9334">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
-
-
----
-
-# 💬 Quote
-
-<p align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</p>
-
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nitesh933438&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
-
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Master MERN Stack
-- ✅ Solve 300+ DSA Problems
-- ✅ Contribute to Open Source
-- ✅ Build 5+ Production Projects
-- ✅ Get a Software Development Internship
-
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:0D1117&height=120&section=footer"/>
-
-</p> -->
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
 
 <h3 align="center">
@@ -234,6 +32,9 @@ Aspiring Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 
 # 🚀 About Me
 
+
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 🎓 B.Tech Computer Science Student
@@ -358,6 +159,16 @@ Aspiring Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 ## 💰 Money Details
 
 <p align="center">
+<img src="./assets/money-details.png" width="100%">
+</p>
+
+## 🎥 Project Demo
+
+<p align="center">
+<img src="./assets/demo.gif" width="100%">
+</p>
+
+<p align="center">
 <a href="https://money-details.netlify.app">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
 </a>
@@ -390,6 +201,10 @@ Aspiring Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 ---
 
 ## 🌐 Personal Portfolio
+
+<p align="center">
+<img src="./assets/portfolio.png" width="100%">
+</p>
 
 <p align="center">
 <a href="https://nitesh933438.github.io/My-Portfolio/">
