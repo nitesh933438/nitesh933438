@@ -322,7 +322,7 @@ Aspiring Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitesh933438&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=nitesh933438&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=nitesh933438&theme=tokyonight&hide_border=true"/>
 
@@ -330,7 +330,7 @@ Aspiring Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh933438&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nitesh933438&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 </p>
 
@@ -340,7 +340,7 @@ Aspiring Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nitesh933438&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nitesh933438&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
