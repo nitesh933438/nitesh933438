@@ -42,7 +42,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🌱 Currently learning the MERN Stack ecosystem
 
-📚 Solving Data Structures & Algorithms in C++
+📚 Solving Data Structures & Algorithms in Python
 
 🔥 Building practical real-world projects
 
