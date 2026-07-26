@@ -308,6 +308,15 @@ A modern, responsive portfolio website showcasing my projects, technical skills,
 
 ---
 
+# 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nitesh933438/nitesh933438/main/github-metrics.svg" width="100%" />
+</p>
+
+---
+
+
 # 📈 GitHub Summary Cards
 
 <p align="center">
