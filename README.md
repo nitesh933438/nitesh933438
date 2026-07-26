@@ -303,7 +303,7 @@ A modern, responsive portfolio website showcasing my projects, technical skills,
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitesh933438/nitesh933438/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/nitesh933438/nitesh933438/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
