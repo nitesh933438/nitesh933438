@@ -147,14 +147,6 @@ Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitesh933438&theme=onedark&no-frame=true"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
