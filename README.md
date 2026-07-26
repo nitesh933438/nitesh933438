@@ -232,7 +232,7 @@ Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 <img src="https://img.shields.io/badge/🚀%20Visit%20Portfolio-2563EB?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/nitesh933438">
+<a href="https://github.com/nitesh933438/My-Portfolio">
 <img src="https://img.shields.io/badge/📂%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
