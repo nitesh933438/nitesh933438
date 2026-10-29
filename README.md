@@ -1,304 +1,195 @@
-<h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
 
-<h3 align="center">
-Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
-</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real+World+Projects;Learning+DSA+in+Python;Open+Source+Learner;Future+Software+Engineer" />
+# 👋 Hey, I'm Nitesh Kumar
+
+### Full-Stack Developer | MERN Stack | AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full-Stack+Web+Developer;Exploring+AI+and+Automation;Learning+%7C+Building+%7C+Growing" alt="Typing SVG">
+
+<p>
+  <a href="https://github.com/nitesh933438"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nitesh933438"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:nitesh933438@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://nitesh933438.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
 
-<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nitesh933438&label=Profile%20Views&color=00C6FF&style=flat" alt="Profile Views">
 
-<a href="https://komarev.com/ghpvc/?username=nitesh933438">
-<img src="https://komarev.com/ghpvc/?username=nitesh933438&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</a>
+<img src="assets/banner.png" width="100%" alt="Nitesh Kumar Developer Banner">
 
-<a href="https://www.linkedin.com/in/nitesh933438">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://nitesh933438.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:nitesh933438@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-<img src="./assets/banner.png" width="100%" alt="Nitesh Kumar Banner"/>
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
+<div align="center">
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 
-🎓 **B.Tech Computer Science & Engineering Student (2nd Year)**
-
-💻 Passionate about **Full Stack Web Development**
-
-🚀 Building modern, scalable and responsive web applications
-
-🐍 Solving **Data Structures & Algorithms using Python**
-
-🌱 Continuously learning the **MERN Stack Ecosystem**
-
-☁️ Exploring **Firebase, Cloudinary & REST APIs**
-
-📂 Building real-world projects with modern UI/UX
-
-🎯 Open to **Software Development Internship Opportunities**
-
-⚡ Love turning ideas into useful applications through clean and efficient code.
-
-<br clear="right"/>
+- 💻 Full-Stack Developer passionate about building practical digital products.
+- 🌱 Learning and improving my skills in the MERN stack and modern web technologies.
+- 🤖 Exploring AI integrations, intelligent automation, and useful developer tools.
+- 🎨 Interested in premium UI/UX, responsive layouts, and accessible web experiences.
+- 🚀 Focused on writing maintainable code and building real-world projects.
+- 🤝 Open to collaboration, learning, and connecting with other developers.
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/nitesh933438">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Languages
+<img src="https://skillicons.dev/icons?i=js,html,css" alt="Languages">
 
-<a href="https://github.com/nitesh933438">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="Frontend technologies">
 
-<a href="https://nitesh933438.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend technologies">
 
-<a href="mailto:nitesh933438@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Developer tools">
 
-<a href="https://leetcode.com/u/nitesh933438/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/nitesh9334">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 💻 Tech Stack
+## 🚀 Featured Projects
 
-### 👨‍💻 Programming Languages
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js"/>
-</p>
+### 💰 Money Details
 
-### 🎨 Frontend Development
+A personal money-management project.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
-</p>
+**Links:** [Repository](https://github.com/nitesh933438/Money-Details) · [Live Demo](https://nitesh933438.github.io/Money-Details/)
 
-### ⚙️ Backend Development
+</td>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+### 🤖 WhatsApp Personal AI Bot
 
-### 🗄️ Database & Cloud
+A WhatsApp bot project with personal-assistant functionality.
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
-</p>
+**Links:** [Repository](https://github.com/nitesh933438/WhatsApp-Personal-AI-Bot) · [Live Demo](https://nitesh-personal-bot.onrender.com/)
 
-### 🛠️ Tools & Technologies
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,npm"/>
-</p>
+### 🏢 WorkSphere HRMS
 
-> 🚀 **Experienced in building responsive full-stack web applications using modern JavaScript technologies and continuously improving problem-solving skills through Python DSA.**
+A human-resource management system project.
 
----
+**Links:** [Repository](https://github.com/nitesh933438/WorkSphere-HRMS) · [Live Demo](https://nitesh933438.github.io/WorkSphere-HRMS/)
 
+</td>
+<td width="50%" valign="top">
 
-# 📊 GitHub Analytics
+### ✨ Nova AI Assistant
 
-<p align="center">
+An AI assistant project with a web-based interface.
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=nitesh933438&theme=tokyonight&hide_border=true&show_icons=true"/>
+**Links:** [Repository](https://github.com/nitesh933438/nova-ai-assistant) · [Live Demo](https://nova-ai-assistant-oue3.onrender.com/)
 
-<img height="170" src="https://streak-stats.demolab.com?user=nitesh933438&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</p>
+### 🔐 Digital Vault
 
-<p align="center">
+A digital information management project.
 
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nitesh933438&layout=compact&theme=tokyonight&hide_border=true"/>
+**Links:** [Repository](https://github.com/nitesh933438/Digital-Vault) · [Live Demo](https://nitesh933438.github.io/Digital-Vault/)
 
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### 🌐 My Portfolio
 
-# 📈 Contribution Graph
+My personal portfolio and project showcase.
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitesh933438&theme=tokyo-night&hide_border=true"/>
-</p>
+**Links:** [Repository](https://github.com/nitesh933438/My-Portfolio) · [Live Demo](https://nitesh933438.github.io/My-Portfolio/)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-# 🌟 Featured Projects
+### 🚦 Golden Road Safety
 
-## 💰 Money Details
+A road-safety-focused web project.
 
-<p align="center">
-<img src="./assets/money-details.png" width="100%" alt="Money Details"/>
-</p>
+**Links:** [Repository](https://github.com/nitesh933438/Golden-Road-Safety) · [Live Demo](https://nitesh933438.github.io/Golden-Road-Safety/)
 
-### 🎥 Project Demo
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="./assets/demo.gif" width="100%" alt="Money Details Demo"/>
-</p>
+### 🧠 AttendX-AI
 
-<p align="center">
+An AI-oriented attendance project.
 
-<a href="https://money-details.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
-</a>
+**Links:** [Repository](https://github.com/nitesh933438/AttendX-AI) · [Live Demo](https://attend-x-ai.vercel.app/)
 
-<a href="https://github.com/nitesh933438/Money-Details">
-<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</p>
+### 🛣️ Road Safety
 
-### 📌 About Project
+A road-safety awareness web project.
 
-**Money Details** is a modern **Personal Finance Management System** built to help users efficiently manage their daily finances through a clean, fast and responsive interface.
+**Links:** [Repository](https://github.com/nitesh933438/Road-Safety) · [Live Demo](https://road-safety-beta.vercel.app/)
 
-### ✨ Key Features
+</td>
+<td width="50%" valign="top">
 
-- 📊 Dashboard Analytics
-- 💰 Income & Expense Tracking
-- 📝 Add, Edit & Delete Transactions
-- 🎯 Budget Management
-- 🤝 Udhaar Management
-- 🎓 Fee Management
-- 📂 Category Management
-- 🔍 Search & Filter Records
-- 📈 Interactive Charts & Reports
-- 📤 Export Data
-- 🔐 Firebase Authentication
-- ☁️ Firestore Database
-- 🌙 Dark Mode Support
-- 📱 Fully Responsive Design
+### 📚 Explore All Projects
 
-### 🛠️ Tech Stack
+Browse my public repositories for more projects and experiments.
 
-<p>
+[**View All Repositories →**](https://github.com/nitesh933438?tab=repositories)
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,firebase"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Personal Portfolio
+## 📊 GitHub Analytics
 
-<p align="center">
-<img src="./assets/portfolio.png" width="100%" alt="Portfolio"/>
-</p>
+<div align="center">
 
-<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nitesh933438&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
 
-<a href="https://nitesh933438.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/🚀%20Visit%20Portfolio-2563EB?style=for-the-badge"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh933438&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 
-<a href="https://github.com/nitesh933438/My-Portfolio">
-<img src="https://img.shields.io/badge/📂%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=nitesh933438&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitesh933438&theme=tokyo-night&hide_border=true" alt="Contribution Activity">
 
-### 📌 About Portfolio
-
-A modern, responsive portfolio website showcasing my projects, technical skills, certifications, achievements and development journey with a clean user experience.
+</div>
 
 ---
 
+## 🐍 Contribution Snake
 
-# 🏅 Coding Profiles
+<div align="center">
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/nitesh933438/nitesh933438/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
 
-<a href="https://leetcode.com/u/nitesh933438/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/nitesh9334">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://github.com/nitesh933438">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 🎯 Current Focus
-
-```text
-🚀 Building Production-Ready MERN Stack Applications
-🐍 Solving Data Structures & Algorithms using Python
-🌱 Learning Backend Development & REST APIs
-☁️ Exploring Firebase, Cloudinary & MongoDB
-📚 Strengthening Problem Solving Skills
-💼 Preparing for Software Development Internships
-```
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master MERN Stack Development
-- ✅ Solve 300+ DSA Problems in Python
-- ✅ Build 5+ Production-Level Projects
-- ✅ Contribute to Open Source
-- ✅ Learn System Design Fundamentals
-- ✅ Secure a Software Development Internship
-- ✅ Improve Backend Development Skills
-
----
-
-# 💬 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nitesh933438/nitesh933438/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
 
 # 📊 GitHub Metrics
 
@@ -309,7 +200,6 @@ A modern, responsive portfolio website showcasing my projects, technical skills,
 ---
 
 ---
-
 
 # 📈 GitHub Summary Cards
 
@@ -331,49 +221,56 @@ A modern, responsive portfolio website showcasing my projects, technical skills,
 
 ---
 
-# 📌 Currently Exploring
+## 🧑‍💻 Coding Profiles
 
-- ⚛️ Advanced React.js
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB
-- 🔥 Firebase Services
-- 🐍 Python Programming
-- 📊 Data Structures & Algorithms
-- 🌐 REST API Development
-- ☁️ Cloud-Based Applications
+<div align="center">
+
+<a href="https://leetcode.com/u/nitesh933438/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://www.codechef.com/users/nitesh9334"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+## 🎯 Current Focus
 
-<p align="center">
+- Building polished, responsive full-stack applications.
+- Improving backend APIs, authentication, and database design.
+- Exploring practical AI features and automation.
+- Learning more about testing, security, and deployment.
 
-<a href="mailto:nitesh933438@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 🗺️ Goals for 2026
 
-<a href="https://www.linkedin.com/in/nitesh933438">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- 🚀 Ship more complete and production-minded projects.
+- 📚 Strengthen MERN stack and software engineering fundamentals.
+- 🔒 Improve application security, accessibility, and performance.
+- 🤝 Contribute to open-source and collaborate with developers.
 
-<a href="https://nitesh933438.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+## 💬 Developer Quote
 
-<a href="https://github.com/nitesh933438">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<div align="center">
 
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote">
+
+</div>
 
 ---
 
-<p align="center">
+## 🤝 Let's Connect
 
-### ⭐ Thanks for visiting my GitHub Profile!
+<div align="center">
 
-*"Code • Learn • Build • Improve • Repeat"* 🚀
+I'm always interested in learning, building useful products, and connecting with the developer community.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00C6FF,50:7C3AED,100:0D1117&section=footer"/>
+<a href="https://www.linkedin.com/in/nitesh933438"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:nitesh933438@gmail.com"><img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://nitesh933438.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Visit_Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 
-</p>
+<br><br>
+
+⭐ Thanks for visiting my profile. Keep learning, keep building!
+
+</div>
+
+<!-- Animated footer: keep this as the final element of the README -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00C6FF,50:7C3AED,100:0D1117&section=footer" width="100%" alt="Animated cyan purple waving footer">
