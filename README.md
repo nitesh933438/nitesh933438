@@ -260,7 +260,22 @@ _This list is updated automatically by GitHub Actions._
 
 | Repository | Description | Language | Stars |
 |---|---|---|---:|
-| [Browse all repositories](https://github.com/nitesh933438?tab=repositories) | View all public repositories on GitHub. | — | — |
+| [nitesh933438](https://github.com/nitesh933438/nitesh933438) | 🚀 Aspiring Full Stack Developer \| MERN Stack \| Python \| DSA \| Building Real World Projects \| B.Tech CSE Student | — | 2 |
+| [WorkSphere-HRMS-Demo](https://github.com/nitesh933438/WorkSphere-HRMS-Demo) | 🚀 WorkSphere HRMS — A modern role-based HRMS for Admin, HR, Manager & Employee. Manage employees, attendance with GPS/geofence, leave, payroll, salary slips, documents, reports, requests, announcements & real-time notifications. 🔐 Firebase • ☁️ Cloudinary • ⚡ React/Vite • 📱 Responsive • 🚀 GitHub Pages. | JavaScript | 3 |
+| [Road-Safety](https://github.com/nitesh933438/Road-Safety) | Golden Button ✅ | TypeScript | 2 |
+| [Golden-Road-Safety](https://github.com/nitesh933438/Golden-Road-Safety) | AI-assisted road safety and emergency response platform with crash detection, SOS, GPS, First Aid guidance, CPR training, Good Samaritan support, and Firebase-powered incident management. | TypeScript | 2 |
+| [Business-Invoice-Generator](https://github.com/nitesh933438/Business-Invoice-Generator) | Business-Invoice-Generator | JavaScript | 1 |
+| [Digital-Vault](https://github.com/nitesh933438/Digital-Vault) | 🔐 Digital Vault — A modern, secure & responsive document management system for storing, organizing and managing files with ☁️ Firebase Cloud Storage, 🔑 Authentication & 📱 PWA support. | JavaScript | 1 |
+| [Money-Details-Demo](https://github.com/nitesh933438/Money-Details-Demo) | Apne sabhi financial records, daily expenses, Udhaar/lending accounts aur college fees ko ek hi jagah par manage karein! 💸 Features real-time Firebase sync ☁️, interactive dashboards 📈 aur row-wise person summary ke sath professional PDF export 📄✨. | — | 2 |
+| [createproresume](https://github.com/nitesh933438/createproresume) | No description provided. | JavaScript | 1 |
+| [Doctor-Contact](https://github.com/nitesh933438/Doctor-Contact) | Doctor Contact | TypeScript | 1 |
+| [watch-store](https://github.com/nitesh933438/watch-store) | nitesh watch store | TypeScript | 1 |
+| [WhatsApp-Personal-AI-Bot-Demo](https://github.com/nitesh933438/WhatsApp-Personal-AI-Bot-Demo) | 🤖 AI-powered WhatsApp Personal Assistant with a modern web dashboard, chat management, real-time updates, Gemini AI, and responsive UI. | — | 0 |
+| [AttendX-AI](https://github.com/nitesh933438/AttendX-AI) | AttendX AI is a smart AI-powered camera attendance system that automatically detects faces, marks attendance in real time, and provides secure role-based access for Admin, Teachers, and Students. | TypeScript | 0 |
+| [Business](https://github.com/nitesh933438/Business) | Business | — | 0 |
+| [Doctor-Details](https://github.com/nitesh933438/Doctor-Details) | Doctor Details | — | 0 |
+| [StudyShare](https://github.com/nitesh933438/StudyShare) | StudyShare | TypeScript | 0 |
+| [Student-Portal](https://github.com/nitesh933438/Student-Portal) | Student Work | — | 0 |
 <!-- REPOSITORY-LIST:END -->
 
 ---
