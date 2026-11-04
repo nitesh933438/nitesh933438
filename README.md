@@ -12,7 +12,7 @@
   <a href="https://github.com/nitesh933438"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/nitesh933438"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:nitesh933438@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://nitesh933438.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://nitesh933438.github.io/My-Portfolio-2.0/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=nitesh933438&label=Profile%20Views&color=00C6FF&style=flat" alt="Profile Views" />
@@ -291,7 +291,7 @@ I'm always interested in learning, building useful products, and connecting with
 
 <a href="https://www.linkedin.com/in/nitesh933438"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:nitesh933438@gmail.com"><img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://nitesh933438.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Visit_Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://nitesh933438.github.io/My-Portfolio-2.0/"><img src="https://img.shields.io/badge/Visit_Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 ### ⭐ Thanks for visiting my profile!
 
