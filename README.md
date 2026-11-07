@@ -260,8 +260,8 @@ _This list is updated automatically by GitHub Actions._
 
 | Repository | Description | Language | Stars |
 |---|---|---|---:|
-| [My-Portfolio-2.0](https://github.com/nitesh933438/My-Portfolio-2.0) | Portfolio | TypeScript | 1 |
 | [nitesh933438](https://github.com/nitesh933438/nitesh933438) | 🚀 Aspiring Full Stack Developer \| MERN Stack \| Python \| DSA \| Building Real World Projects \| B.Tech CSE Student | — | 2 |
+| [My-Portfolio-2.0](https://github.com/nitesh933438/My-Portfolio-2.0) | Portfolio | TypeScript | 1 |
 | [Money-Details-Demo](https://github.com/nitesh933438/Money-Details-Demo) | Apne sabhi financial records, daily expenses, Udhaar/lending accounts aur college fees ko ek hi jagah par manage karein! 💸 Features real-time Firebase sync ☁️, interactive dashboards 📈 aur row-wise person summary ke sath professional PDF export 📄✨. | — | 2 |
 | [My-Portfolio](https://github.com/nitesh933438/My-Portfolio) | 💻 Personal Portfolio of Nitesh Kumar \| B.Tech CSE Student \| Aspiring Software Developer \| Building modern web applications and AI-powered solutions. | CSS | 1 |
 | [WorkSphere-HRMS-Demo](https://github.com/nitesh933438/WorkSphere-HRMS-Demo) | 🚀 WorkSphere HRMS — A modern role-based HRMS for Admin, HR, Manager & Employee. Manage employees, attendance with GPS/geofence, leave, payroll, salary slips, documents, reports, requests, announcements & real-time notifications. 🔐 Firebase • ☁️ Cloudinary • ⚡ React/Vite • 📱 Responsive • 🚀 GitHub Pages. | JavaScript | 3 |
