@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            657 Commits
+                            658 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.8947015153638" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="325.8947015153638" y="0" width="103.51325903897595" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="429.40796055433975" y="0" width="16.436008376007482" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="445.8439689303473" y="0" width="11.576887569048587" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.4208564993958" y="0" width="1.0286792446736255" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="458.44953574406946" y="0" width="0.70672104352598" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.15625678759545" y="0" width="0.5942804761613592" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.75053726375677" y="0" width="0.24946273624318874" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.4437900599671" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="325.4437900599671" y="0" width="104.02494975025121" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="429.4687398102183" y="0" width="16.403353856177848" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="445.8720936663962" y="0" width="11.553886990316782" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.42598065671297" y="0" width="1.0266354986481265" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="458.4526161553611" y="0" width="0.7053169534451105" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.1579331088062" y="0" width="0.5930997792945029" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.7510328881007" y="0" width="0.24896711189930604" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>70.85%</div>
+                                <div>70.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,7 +284,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>22.5%</div>
+                                <div>22.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -295,7 +295,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>2.52%</div>
+                                <div>2.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -340,7 +340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nitesh933438/WorkSphere-HRMS-Demo</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 WorkSphere HRMS — A modern role-based HRMS for Admin, HR, Manager &amp; Employee. Manage employees, attendance with GPS/geofence, leave, payroll, salary slips, documents, reports, requests, announcements &amp; real-time notifications. 🔐 Firebase • ☁️ Cloudinary • ⚡ React/Vite • 📱 Responsive • 🚀 GitHub Pages.</div>
@@ -434,7 +434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nitesh933438/Road-Safety</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Golden Button ✅</div>
@@ -481,7 +481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nitesh933438/Golden-Road-Safety</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AI-assisted road safety and emergency response platform with crash detection, SOS, GPS, First Aid guidance, CPR training, Good Samaritan support, and Firebase-powered incident management.</div>
@@ -525,7 +525,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2026, 12:43:05 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 21 Nov 2026, 12:34:55 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
