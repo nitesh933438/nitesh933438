@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            659 Commits
+                            660 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.18545824911956" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="325.18545824911956" y="0" width="104.30751676230153" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="429.49297501142104" y="0" width="16.39033314957638" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="445.88330816099744" y="0" width="11.544715709008921" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.4280238700064" y="0" width="1.0258205726438625" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="458.4538444426503" y="0" width="0.7047570847016589" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.1586015273519" y="0" width="0.592628986657869" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.75123051400976" y="0" width="0.24876948599024634" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.99580108270123" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="324.99580108270123" y="0" width="104.50910842904034" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="429.5049095117415" y="0" width="16.375227506868445" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="445.88013701861" y="0" width="11.55025723350624" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.43039425211623" y="0" width="1.0248751568971906" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="458.4552694090134" y="0" width="0.7041075671707927" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.1593769761842" y="0" width="0.592082808514379" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.75145978469857" y="0" width="0.2485402153013768" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>70.69%</div>
+                                <div>70.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,7 +284,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>22.68%</div>
+                                <div>22.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -340,7 +340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nitesh933438/WorkSphere-HRMS-Demo</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 WorkSphere HRMS — A modern role-based HRMS for Admin, HR, Manager &amp; Employee. Manage employees, attendance with GPS/geofence, leave, payroll, salary slips, documents, reports, requests, announcements &amp; real-time notifications. 🔐 Firebase • ☁️ Cloudinary • ⚡ React/Vite • 📱 Responsive • 🚀 GitHub Pages.</div>
@@ -387,7 +387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nitesh933438/My-Portfolio-2.0</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Portfolio</div>
@@ -434,7 +434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nitesh933438/Road-Safety</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Golden Button ✅</div>
@@ -481,7 +481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nitesh933438/Golden-Road-Safety</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AI-assisted road safety and emergency response platform with crash detection, SOS, GPS, First Aid guidance, CPR training, Good Samaritan support, and Firebase-powered incident management.</div>
@@ -525,7 +525,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2026, 13:06:16 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 24 Nov 2026, 15:22:50 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
